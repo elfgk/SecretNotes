@@ -30,6 +30,7 @@
 2. `main.py` dosyasını bir Python IDE veya terminal üzerinden çalıştırın:
    ```bash
    python main.py
+   ```
 
 
 
